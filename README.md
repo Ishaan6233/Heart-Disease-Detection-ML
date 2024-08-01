@@ -5,4 +5,4 @@ This project aims to develop a machine learning model to predict the presence of
 
 ![Model-f1-and-Recall-Comparison.png!](Model-f1-and-Recall-Comparison.png)
 
-![Precision-Comparison.png](Precision-Comparison)
+![Precision-Comparison.png](Precision-Comparison.png)
